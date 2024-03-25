@@ -20,3 +20,7 @@ There is also an admin pannel to control all items and settings.
 ![footer](public/defaults/footer.png)
 
 ![Admin-panel](public/defaults/admin-pannel.png)
+
+## Extra info 
+The project was written using laravel framework in additional to laravel libraries and some javascript .'
+Special thanks to @STISLA and @websolutoins for the frontend template.
