@@ -4,3 +4,7 @@ There is also an admin pannel to control all items and settings.
 
 ## Screenshots
 ![home-page](public/defaults/home.png)
+
+![footer](public/defaults/footer.png)
+
+![Admin-panel](public/defaults/admin-pannel.png)
