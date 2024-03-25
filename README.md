@@ -3,4 +3,4 @@ Pofo is a portfolio website that you can post your skills,experiences,projects,b
 There is also an admin pannel to control all items and settings.
 
 ## Screenshots
-![home-pafe]('/defaults/home.png)
+![home-page]('public/defaults/home.png')
