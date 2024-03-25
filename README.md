@@ -4,7 +4,7 @@ There is also an admin pannel to control all items and settings.
 
 ## How to use
 ```bash
-    1. git clone <my-cool-project>
+1. git clone <https://github.com/mhammad-bazzarah/POFO.git>
 2. composer install
 3. cp .env.example .env
 4. php artisan key:generate
